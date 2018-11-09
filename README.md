@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Habitat Sample Node App
 
 This simple [Express](https://expressjs.com/) app is an example of how to package a Node.js application with Habitat. It's intended to accompany the walkthroughs on the Habitat website, but it can also be run locally on its own.
@@ -88,3 +89,6 @@ $ docker run -it -p 8000:8000 <YOUR_ORIGIN>/sample-node-app
 ```
 
 Now head to http://localhost:8000 and see your running app!
+=======
+# chef-habitat-printer
+>>>>>>> e698e99e0a87cbffd0a7ec5741436e3733fd29f0
